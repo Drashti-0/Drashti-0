@@ -2,7 +2,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Drashti-0)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Drashti-0&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drashti-0&show_icons=true)
 
 
 
