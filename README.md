@@ -1,6 +1,10 @@
-## 🔥 GitHub Streak
+## 🔥 My GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drashti_Bhanderi03)
+![GitHub Streak](https://streak-stats.demolab.com?user=Drashti-0)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Drashti-0&show_icons=true)
+
+
 
 
 <!--
