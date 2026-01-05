@@ -1,6 +1,6 @@
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drashti-0)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drashti_Bhanderi03)
 
 
 <!--
