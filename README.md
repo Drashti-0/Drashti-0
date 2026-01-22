@@ -28,14 +28,13 @@
 
 
 
-## 🔥 My GitHub Streak
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=drashti-0&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=drashti-0&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=drashti-0&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Drashti-0)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drashti-0&show_icons=true)
-
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=drashti-0&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 **Drashti-0/Drashti-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
