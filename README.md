@@ -22,38 +22,8 @@
 ---
 
 <!-- ====== GITHUB STREAK SECTION ====== -->
-<h2 align="center">🔥 My GitHub Streak 🔥</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=false&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="75%" />
-</p>
 
----
 
-<!-- ====== GITHUB STATS ====== -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false&border_radius=15" height="180em" />
-</p>
-
----
-
-<!-- ====== CONNECT WITH ME ====== -->
-<h2 align="center">💫 Connect With Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-<!-- ====== QUOTE / FOOTER ====== -->
-<h3 align="center">⭐ "Keep learning, keep creating — every small step makes a big difference!" ⭐</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:ff66cc&height=100&section=footer" />
-</p>
 
 
 
