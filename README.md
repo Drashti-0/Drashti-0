@@ -26,36 +26,26 @@
 
 ## 📊 GitHub Overall Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drashti-bhanderi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Drashti-0&show_icons=true&theme=radical" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak Status
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=drashti-bhanderi&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Drashti-0&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ## 💻 Languages I Work With
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drashti-bhanderi&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drashti-0&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 👀 Profile Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=drashti-bhanderi&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Drashti-0&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
