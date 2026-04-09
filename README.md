@@ -24,27 +24,31 @@
 <!-- ====== GITHUB STREAK SECTION ====== -->
 
 
-# 📈 GitHub Overall Stats
-![](https://github-readme-stats.vercel.app/api?username=drashti-0&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
+## 📊 GitHub Overall Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=drashti-bhanderi&show_icons=true&theme=radical" />
+</p>
 
 ---
 
-# 🔥 GitHub Streak Status
-![](https://nirzak-streak-stats.vercel.app/?user=drashti-0&theme=prussian&hide_border=false)
+## 🔥 GitHub Streak Status
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=drashti-bhanderi&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-# 💻 Languages I Worked With
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=drashti-0&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Languages I Work With
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drashti-bhanderi&layout=compact&theme=radical" />
+</p>
 
 ---
 
-# 👀 Profile Visitors
-[![](https://visitcount.itsvg.in/api?id=drashti-0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-**Drashti-0/Drashti-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 👀 Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=drashti-bhanderi&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
