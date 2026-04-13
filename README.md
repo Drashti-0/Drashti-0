@@ -23,29 +23,15 @@
 
 <!-- ====== GITHUB STREAK SECTION ====== -->
 
-
 ## 📊 GitHub Overall Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drashti-0&show_icons=true&theme=radical" />
-</p>
+![Drashti GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drashti-0&show_icons=true&theme=dark)
 
 ---
 
 ## 🔥 GitHub Streak Status
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Drashti-0&theme=radical&hide_border=true" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Drashti-0&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
 ## 💻 Languages I Work With
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drashti-0&layout=compact&theme=radical" />
-</p>
-
----
-
-## 👀 Profile Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Drashti-0&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drashti-0&layout=compact&theme=dark)
