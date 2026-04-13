@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
+</p>
+
+
 <!-- ====== INTRO SECTION ====== -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Drashti Bhanderi</span></h1>
 <h3 align="center">🚀 A passionate <span style="color:#ff66cc;">CSE Student</span> exploring the world of Programming 💻</h3>
@@ -28,9 +33,11 @@
 
 ---
 
-## 🔥 GitHub Streak Status
-[![GitHub Streak](https://streak-stats.demolab.com?user=Drashti-0&theme=dark&hide_border=false)](https://git.io/streak-stats)
+## 🔥 GitHub Streak (Pink Theme)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Drashti-0&theme=radical&hide_border=true&ring=ff69b4&fire=ff1493&currStreakNum=ff69b4&currStreakLabel=ff69b4&sideNums=ff69b4&sideLabels=ff69b4&dates=ffb6c1" />
+</p>
 ---
 
 ## 💻 Languages I Work With
@@ -41,10 +48,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=4"/>
-</p>
+
