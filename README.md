@@ -39,9 +39,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Drashti-0&theme=radical&hide_border=true&ring=ff69b4&fire=ff1493&currStreakNum=ff69b4&currStreakLabel=ff69b4&sideNums=ff69b4&sideLabels=ff69b4&dates=ffb6c1" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=header"/>
-</p>
+
 
 ## 💻 Languages I Work With
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drashti-0&layout=compact&theme=dark)
