@@ -35,3 +35,8 @@
 
 ## 💻 Languages I Work With
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drashti-0&layout=compact&theme=dark)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+</p>
