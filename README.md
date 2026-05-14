@@ -33,7 +33,7 @@
 
 ---
 
-## 🔥 GitHub Streak (Pink Theme)
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Drashti-0&theme=radical&hide_border=true&ring=ff69b4&fire=ff1493&currStreakNum=ff69b4&currStreakLabel=ff69b4&sideNums=ff69b4&sideLabels=ff69b4&dates=ffb6c1" />
