@@ -36,7 +36,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Drashti-0&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&currStreakLabel=00BFFF&sideNums=00BFFF&sideLabels=00BFFF&dates=87CEEB" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Drashti-0&theme=tokyonight&hide_border=true&ring=1E90FF&fire=00CED1&currStreakNum=87CEFA&currStreakLabel=87CEFA&sideNums=4682B4&sideLabels=4682B4&dates=B0E0E6" />
 </p>
 
 ---
