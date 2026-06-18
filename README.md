@@ -76,7 +76,7 @@
 - Appointment Management
 - File Handling Concepts
 
----
+
 
 ## 🏧 ATM Machine
 - Developed using C
@@ -85,7 +85,7 @@
 - Deposit System
 - PIN Verification
 
----
+
 
 ## 🏦 Bank Account Management System
 - Developed using C++
@@ -94,7 +94,7 @@
 - Balance Checking
 - Customer Record Management
 
----
+
 
 ## 🚗 Vehicle Information System
 - Developed using C++
@@ -103,7 +103,7 @@
 - Search Functionality
 - File Handling
 
----
+
 
 ## 🚦 Traffic Light Management System
 - ESP32 Based Project
@@ -112,7 +112,7 @@
 - Embedded Systems
 - IoT Concepts
 
----
+
 
 ## 🌙 Night Light System
 - ESP32
