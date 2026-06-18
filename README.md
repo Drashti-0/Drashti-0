@@ -150,4 +150,10 @@
 
 </p>
 
+# 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,git,github,vscode" />
+</p>
+
 
