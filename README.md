@@ -131,6 +131,7 @@
 - 💡 Smart India Hackathon (SIH) Internal Round Selected
 - 🏅 HackerRank Problem Solver
 
+---
 
 # 🌟 Soft Skills
 
@@ -141,15 +142,15 @@
 - Communication
 - Adaptability
 
+---
+
 # 💻 Coding Profiles
 
 - 🟢 HackerRank
 - 🟡 GitHub
 - 🔵 LinkedIn
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Drashti-0/Drashti-0/output/github-contribution-grid-snake.svg" />
-</p>
+---
 
 # 📫 Connect With Me
 
