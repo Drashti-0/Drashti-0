@@ -131,15 +131,7 @@
 - 💡 Smart India Hackathon (SIH) Internal Round Selected
 - 🏅 HackerRank Problem Solver
 
----
 
-# 📈 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Drashti-0&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 
 # 📫 Connect With Me
