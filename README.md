@@ -48,10 +48,10 @@
 
 ---
 
-# 🛠️ Skills
+# 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,git,github,vscode" />
 </p>
 
 ---
@@ -132,7 +132,24 @@
 - 🏅 HackerRank Problem Solver
 
 
+# 🌟 Soft Skills
 
+- Problem Solving
+- Teamwork
+- Quick Learner
+- Time Management
+- Communication
+- Adaptability
+
+# 💻 Coding Profiles
+
+- 🟢 HackerRank
+- 🟡 GitHub
+- 🔵 LinkedIn
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Drashti-0/Drashti-0/output/github-contribution-grid-snake.svg" />
+</p>
 
 # 📫 Connect With Me
 
@@ -150,10 +167,6 @@
 
 </p>
 
-# 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,git,github,vscode" />
-</p>
 
 
