@@ -12,15 +12,15 @@
 
 # About Me
 
-💻 I'm currently pursuing my degree in **Computer Science Engineering**.
+I'm currently pursuing my degree in **Computer Science Engineering**.
 
-🧠 I’ve learned **C Programming** and **C++ Programming**.
+I’ve learned **C Programming** and **C++ Programming**.
 
-🎯 My goal is to become a strong problem solver and explore **Development & DSA**.
+My goal is to become a strong problem solver and explore **Development & DSA**.
 
-🌱 I believe consistency and curiosity are the keys to growth.
+I believe consistency and curiosity are the keys to growth.
 
-✨ I enjoy turning logic into code and ideas into real projects!
+I enjoy turning logic into code and ideas into real projects!
 
 ---
 
@@ -125,11 +125,11 @@
 
 #  Achievements
 
-- 🎖️ CodeAlpha Internship in C Language
-- 🔥 Consistent GitHub Contribution Streak
-- 📚 Active Learner in Web Development & DSA
-- 💡 Smart India Hackathon (SIH) Internal Round Selected
-- 🏅 HackerRank Problem Solver
+-  CodeAlpha Internship in C Language
+-  Consistent GitHub Contribution Streak
+-  Active Learner in Web Development & DSA
+-  Smart India Hackathon (SIH) Internal Round Selected
+-  HackerRank Problem Solver
 
 ---
 
