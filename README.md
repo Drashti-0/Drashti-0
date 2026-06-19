@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Drashti Bhanderi</h1>
+<h1 align="center">Hi , I'm Drashti Bhanderi</h1>
 
 <h3 align="center">
-🚀 A Passionate Computer Science Engineering Student 💙
+ A Passionate Computer Science Engineering Student 
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=2nd+Year+Computer+Science+Engineering+Student+💙;C+Programming+Completed+✅;C%2B%2B+Programming+Completed+✅;Currently+Learning+Data+Structures+%26+Algorithms+📚;Currently+Learning+Web+Development+🌐;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=2nd+Year+Computer+Science+Engineering+Student+;C+Programming+Completed+;C%2B%2B+Programming+Completed;Currently+Learning+Data+Structures+%26+Algorithms+;Currently+Learning+Web+Development+;Always+Learning+Something+New+" />
 </p>
 
 ---
 
-# 🌸 About Me
+# About Me
 
 💻 I'm currently pursuing my degree in **Computer Science Engineering**.
 
@@ -24,7 +24,7 @@
 
 ---
 
-# 📊 GitHub Overall Stats
+#  GitHub Overall Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Drashti-0&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -32,7 +32,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Drashti-0&theme=tokyonight&hide_border=true"/>
@@ -40,7 +40,7 @@
 
 ---
 
-# 💻 Most Used Languages
+#  Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drashti-0&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -48,7 +48,7 @@
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,git,github,vscode" />
@@ -56,7 +56,7 @@
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - Data Structures & Algorithms (DSA)
 - Web Development
@@ -67,9 +67,9 @@
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🏥 Hospital Management System
+##  Hospital Management System
 - Developed using C++
 - Patient Record Management
 - Doctor Information Management
@@ -78,7 +78,7 @@
 
 
 
-## 🏧 ATM Machine
+##  ATM Machine
 - Developed using C
 - Balance Inquiry
 - Cash Withdrawal
@@ -87,7 +87,7 @@
 
 
 
-## 🏦 Bank Account Management System
+##  Bank Account Management System
 - Developed using C++
 - Account Creation
 - Deposit & Withdrawal
@@ -96,7 +96,7 @@
 
 
 
-## 🚗 Vehicle Information System
+##  Vehicle Information System
 - Developed using C++
 - Vehicle Record Management
 - Owner Details
@@ -105,7 +105,7 @@
 
 
 
-## 🚦 Traffic Light Management System
+##  Traffic Light Management System
 - ESP32 Based Project
 - LED Control
 - Traffic Signal Logic
@@ -114,7 +114,7 @@
 
 
 
-## 🌙 Night Light System
+##  Night Light System
 - ESP32
 - LDR Sensor
 - Transistor
@@ -123,7 +123,7 @@
 
 ---
 
-# 🏆 Achievements
+#  Achievements
 
 - 🎖️ CodeAlpha Internship in C Language
 - 🔥 Consistent GitHub Contribution Streak
@@ -133,7 +133,7 @@
 
 ---
 
-# 🌟 Soft Skills
+# Soft Skills
 
 - Problem Solving
 - Teamwork
@@ -144,7 +144,7 @@
 
 ---
 
-# 💻 Coding Profiles
+#  Coding Profiles
 
 - 🟢 HackerRank
 - 🟡 GitHub
@@ -152,7 +152,7 @@
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p align="center">
 
