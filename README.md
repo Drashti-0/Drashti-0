@@ -146,9 +146,9 @@ I enjoy turning logic into code and ideas into real projects!
 
 #  Coding Profiles
 
-- 🟢 HackerRank
-- 🟡 GitHub
-- 🔵 LinkedIn
+-  HackerRank
+-  GitHub
+-  LinkedIn
 
 ---
 
