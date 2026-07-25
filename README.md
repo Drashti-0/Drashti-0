@@ -32,6 +32,12 @@ I enjoy turning logic into code and ideas into real projects!
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drashti-0&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 # GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Drashti-0&theme=tokyonight&hide_border=true"/>
