@@ -31,12 +31,34 @@ I enjoy turning logic into code and ideas into real projects!
 </p>
 
 ---
+<!-- GitHub Stats -->
 
-# GitHub Streak
+<h2 align="center">GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Drashti-0&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Drashti-0&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
----
+
+<!-- GitHub Streak -->
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=Drashti-0&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<!-- Top Languages -->
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drashti-0&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 #  Most Used Languages
 
