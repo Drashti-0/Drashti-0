@@ -12,7 +12,6 @@
 ---
 
 
-
 # About Me
 
 I'm currently pursuing my degree in **Computer Science Engineering**.
