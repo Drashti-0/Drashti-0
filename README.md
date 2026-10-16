@@ -94,12 +94,6 @@ I enjoy turning logic into code and ideas into real projects!
 
 #  Featured Projects
 
-##  Hospital Management System
-- Developed using C++
-- Patient Record Management
-- Doctor Information Management
-- Appointment Management
-- File Handling Concepts
 
 
 
