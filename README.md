@@ -94,18 +94,6 @@ I believe consistency and curiosity are the keys to growth.
 
 #  Featured Projects
 
-
-
-
-##  Bank Account Management System
-- Developed using C++
-- Account Creation
-- Deposit & Withdrawal
-- Balance Checking
-- Customer Record Management
-
-
-
 ##  Vehicle Information System
 - Developed using C++
 - Vehicle Record Management
