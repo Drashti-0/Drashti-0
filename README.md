@@ -22,7 +22,7 @@ My goal is to become a strong problem solver and explore **Development & DSA**.
 
 I believe consistency and curiosity are the keys to growth.
 
-I enjoy turning logic into code and ideas into real projects!
+
 
 ---
 
