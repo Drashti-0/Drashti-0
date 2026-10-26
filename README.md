@@ -92,38 +92,11 @@ I believe consistency and curiosity are the keys to growth.
 
 ---
 
-#  Featured Projects
 
-##  Vehicle Information System
-- Developed using C++
-- Vehicle Record Management
-- Owner Details
-- Search Functionality
-- File Handling
-
-
-
-##  Traffic Light Management System
-- ESP32 Based Project
-- LED Control
-- Traffic Signal Logic
-- Embedded Systems
-- IoT Concepts
-
-
-
-##  Night Light System
-- ESP32
-- LDR Sensor
-- Transistor
-- LED
-- Automatic Light Detection
-
----
 
 #  Achievements
 
--  CodeAlpha Internship in C Language
+-  CodeAlpha Internship 
 -  Consistent GitHub Contribution Streak
 -  Active Learner in Web Development & DSA
 -  Smart India Hackathon (SIH) Internal Round Selected
