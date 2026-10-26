@@ -97,15 +97,6 @@ I believe consistency and curiosity are the keys to growth.
 
 
 
-##  ATM Machine
-- Developed using C
-- Balance Inquiry
-- Cash Withdrawal
-- Deposit System
-- PIN Verification
-
-
-
 ##  Bank Account Management System
 - Developed using C++
 - Account Creation
