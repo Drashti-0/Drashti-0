@@ -132,7 +132,6 @@ I believe consistency and curiosity are the keys to growth.
 </a>
 
 
-
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
