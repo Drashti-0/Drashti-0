@@ -3,6 +3,7 @@
 <h3 align="center">
  A Passionate Computer Science Engineering Student 
 </h3> 
+
  
 <p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=2nd+Year+Computer+Science+Engineering+Student+;C+Programming+Completed+;C%2B%2B+Programming+Completed;Currently+Learning+Data+Structures+%26+Algorithms+;Currently+Learning+Web+Development+;Always+Learning+Something+New+" />
