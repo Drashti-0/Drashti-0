@@ -17,7 +17,7 @@
 
 I'm currently pursuing my degree in **Computer Science Engineering**.
 
-I’ve learned **C Programming** and **C++ Programming**.
+I’ve learned **C Programming** and **C++ Programming**. 
 
 My goal is to become a strong problem solver and explore **Development & DSA**.
 
